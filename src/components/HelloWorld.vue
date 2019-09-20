@@ -4,7 +4,7 @@
 
     <template>
       <v-lazy-image
-        src="http://lorempixel.com/400/200/"
+        src="http://cfile269.uf.daum.net/image/2557BF3A54FEFB920DAE28"
         src-placeholder="https://cdn-images-1.medium.com/max/80/1*xjGrvQSXvj72W4zD6IWzfg.jpeg"
       ></v-lazy-image>
     </template>
